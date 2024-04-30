@@ -1,0 +1,114 @@
+[
+  {
+    "id": "m-card-01",
+    "social-media-platform": "facebook",
+    "user-name": "@nathanf",
+    "card-logo": "/images/icon-facebook.svg",
+    "num-of-followers": "1987",
+    "today-state": "up",
+    "today-reach": "12"
+  },
+  {
+    "id": "m-card-02",
+    "social-media-platform": "twitter",
+    "user-name": "@nathanf",
+    "card-logo": "/images/icon-twitter.svg",
+    "num-of-followers": "1044",
+    "today-state": "up",
+    "today-reach": "99"
+  },
+  {
+    "id": "m-card-03",
+    "social-media-platform": "instagram",
+    "user-name": "@realnathanf",
+    "card-logo": "/images/icon-instagram.svg",
+    "num-of-followers": "11k",
+    "today-state": "up",
+    "today-reach": "1099"
+  },
+  {
+    "id": "m-card-04",
+    "social-media-platform": "youtube",
+    "user-name": "@Nathan F.",
+    "card-logo": "/images/icon-youtube.svg",
+    "num-of-followers": "8239",
+    "today-state": "down",
+    "today-reach": "144"
+  },
+  {
+    "id": "s-card-01",
+    "social-media-platform": "facebook",
+    "reach-type": "Page Views",
+    "reach-num": "87",
+    "card-logo": "/images/icon-facebook.svg",
+    "today-state": "up",
+    "today-reach": "3%"
+  },
+  {
+    "id": "s-card-02",
+    "social-media-platform": "facebook",
+    "reach-type": "Likes",
+    "reach-num": "52",
+    "card-logo": "/images/icon-facebook.svg",
+    "today-state": "down",
+    "today-reach": "2%"
+  },
+  {
+    "id": "s-card-03",
+    "social-media-platform": "instagram",
+    "reach-type": "Likes",
+    "reach-num": "5462",
+    "card-logo": "/images/icon-instagram.svg",
+    "today-state": "up",
+    "today-reach": "2275%"
+  },
+  {
+    "id": "s-card-04",
+    "social-media-platform": "instagram",
+    "reach-type": "Profile Views",
+    "reach-num": "52K",
+    "card-logo": "/images/icon-instagram.svg",
+    "today-state": "up",
+    "today-reach": "1375%"
+  },
+  {
+    "id": "s-card-05",
+    "social-media-platform": "twitter",
+    "reach-type": "Retweets",
+    "reach-num": "117",
+    "card-logo": "/images/icon-twitter.svg",
+    "today-state": "up",
+    "today-reach": "303%"
+  },
+  {
+    "id": "s-card-06",
+    "social-media-platform": "twitter",
+    "reach-type": "Likes",
+    "reach-num": "507",
+    "card-logo": "/images/icon-twitter.svg",
+    "today-state": "up",
+    "today-reach": "553%"
+  },
+  {
+    "id": "s-card-07",
+    "social-media-platform": "youtube",
+    "reach-type": "Likes",
+    "reach-num": "107",
+    "card-logo": "/images/icon-youtube.svg",
+    "today-state": "down",
+    "today-reach": "19%"
+  },
+  {
+    "id": "s-card-08",
+    "social-media-platform": "youtube",
+    "reach-type": "Total Views",
+    "reach-num": "1407",
+    "card-logo": "/images/icon-youtube.svg",
+    "today-state": "down",
+    "today-reach": "12%"
+  },
+  {
+    "id": "page-data",
+    "total-followers": 23.004
+  }
+]
